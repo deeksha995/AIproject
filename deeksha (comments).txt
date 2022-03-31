@@ -1,0 +1,4 @@
+plagiarism analyser will tell the text is copied or not.
+i have created github account and created a repository in my personal github account.
+I have cloned the source code into local host, and runned in my computer.
+LAstly i have added the file, commited the file and lastly pushed the file to the personal account.
